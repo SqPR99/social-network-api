@@ -14,7 +14,10 @@ This application was built in order to use an API so friends can interact with e
 In order to install this, the user needs to clone the repo to their local machine and open it up in a code editor of their choice. Once opened they need to open the terminal and run npm i and then npm start to start the API
 ## [Usage](#table-of-contents)
 
-    
+
+https://user-images.githubusercontent.com/105133644/182540120-95c777ae-4b90-4cb4-ae17-ec77a4a7ebe3.mp4
+
+
 ## [Contributing](#table-of-contents)
 Andrew Cryer (Github: https://github.com/Baldemyr)
     
