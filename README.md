@@ -1,33 +1,26 @@
-# Social Network API using Mongo
 
-This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. The API is built with Express.js for routing, a MongoDB database, and the Mongoose ODM.
+# Social Network API
+    
+## Table-of-Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Questions](#questions)
+    
+## [Description](#table-of-contents)
+This application was built in order to use an API so friends can interact with eachother on social media, this includes liking thoughts, reacting, sharing thoughts and creating a friend list
+## [Installation](#table-of-contents)
+In order to install this, the user needs to clone the repo to their local machine and open it up in a code editor of their choice. Once opened they need to open the terminal and run npm i and then npm start to start the API
+## [Usage](#table-of-contents)
 
-## Tech Used
-* IndexedDB 
-* Mongoose
-* MongoDB
-
-## Installation
-* npm i to install dependencies
-* npm start to start the API
-
-## GitHub Repository
-
-https://github.com/Baldemyr/18-Social-Network-API.git
-
-
-## Image
-
-![18-pic1](https://user-images.githubusercontent.com/46965040/180928473-37a249d1-68d6-4689-a5e0-7cbde10ddf78.png)
-
-## Video
-
-Startup
-
-https://drive.google.com/file/d/1TnJA13Lh32pWMkD4oHg1mQSPhnmgDh_b/view?usp=sharing
-
-Operations
-
-https://drive.google.com/file/d/1nCFGqXbdQpBCiqZ26NA1hWIlhDIckz_P/view?usp=sharing
-
+    
+## [Contributing](#table-of-contents)
+Andrew Cryer (Github: https://github.com/Baldemyr)
+    
+## [Questions](#table-of-contents)
+Please contact me using the following links:
+[GitHub](https://github.com/SqPR99)
+[Email: pross2252@gmail.com](mailto:pross2252@gmail.com)
+  
 
